@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo bootleg_montana-userdebug
+add_lunch_combo arrow_montana-userdebug
