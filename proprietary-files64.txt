@@ -1,4 +1,4 @@
-# Proprietary files for cedric
+# Proprietary files for montana
 
 # Blobs
 lib64/vendor.qti.gnss@1.0.so
